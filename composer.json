@@ -1,0 +1,17 @@
+{
+    "name": "bytes-dhananjay/helper-functions",
+    "description": "php helper functions",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "BytesDhananjay\\HelperFunctions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dhananjay Choksi"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
